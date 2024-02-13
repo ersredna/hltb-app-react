@@ -1,0 +1,1 @@
+A very simple react app using the HowLongToBeat API as a learning project.
